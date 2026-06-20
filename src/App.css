@@ -167,9 +167,9 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 50% 65%; /* Align the 65% mark of the image to the 65% mark of the container */
-  transform-origin: 50% 65%; /* Zoom from the face */
-  transform: scale(2.4) translateY(-8%); /* Zoom in 2.4x and nudge up to center the face */
+  object-position: center 10%; /* Keep the face centered */
+  transform-origin: center center;
+  transform: scale(1.15); /* Slight zoom */
   transition: transform 0.3s ease;
 }
 
