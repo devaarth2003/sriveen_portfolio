@@ -64,7 +64,7 @@ const Hero = () => {
         >
           <div className="hero-image-wrapper">
             <div className="hero-image-inner">
-              <img src="/profile photo/20250204_115139.jpg.jpeg" alt="Sriveen Krishna D" className="hero-image" />
+              <img src="/profile photo/profile_photo.jpeg" alt="Sriveen Krishna D" className="hero-image" />
             </div>
             <div className="hero-image-backdrop"></div>
           </div>
